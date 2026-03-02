@@ -1,0 +1,15 @@
+C:\Users\zinov\source\repos\Process\bin\Debug\net10.0\Process.exe
+C:\Users\zinov\source\repos\Process\bin\Debug\net10.0\Process.deps.json
+C:\Users\zinov\source\repos\Process\bin\Debug\net10.0\Process.runtimeconfig.json
+C:\Users\zinov\source\repos\Process\bin\Debug\net10.0\Process.dll
+C:\Users\zinov\source\repos\Process\bin\Debug\net10.0\Process.pdb
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\Process.AssemblyInfoInputs.cache
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\Process.AssemblyInfo.cs
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\Process.csproj.CoreCompileInputs.cache
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\Process.dll
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\refint\Process.dll
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\Process.pdb
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\Process.genruntimeconfig.cache
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\ref\Process.dll
+C:\Users\zinov\source\repos\Process\obj\Debug\net10.0\Process.sourcelink.json
